@@ -1,2 +1,3 @@
 # galaxias
-An Endless Sky plugin for the Galaxias light battlecruiser
+
+An Endless Sky plugin for the Galaxias fast battlecruiser.
