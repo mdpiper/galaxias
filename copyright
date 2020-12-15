@@ -3,10 +3,10 @@ Upstream-Name: endless-sky
 Upstream-Contact: Michael Zahniser <mzahniser@gmail.com>
 Source: https://github.com/endless-sky/endless-sky
 
-Files: *
+Files: data/*
 Copyright: Copyright Mark Piper <mdpiper@gmail.com>
-License: MIT
+License: CC-BY-SA-4.0
 
 Files: images/*
-Copyright: Copyright Mark Piper <mdpiper@gmail.com>
+Copyright: Copyright Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
