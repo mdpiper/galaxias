@@ -58,6 +58,7 @@ ship Galaxias
 	explode "medium explosion" 40
 	explode "large explosion" 20
 	"final explode" "final explosion medium"
+	swizzle 4
 	description "The Galaxias is a Southbound Shipyards skunkworks project, a light battlecruiser built for speed and manuverability. A key feature is its exceptionally light and strong prototype diamond-matrix hull material."
 
 
