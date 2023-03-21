@@ -10,8 +10,8 @@ ship Galaxias
 		"hull" 3600
 		"required crew" 15
 		"bunks" 30
-		"mass" 285
-		"drag" 4.7
+		"mass" 275
+		"drag" 4.8
 		"heat dissipation" 0.7
 		"fuel capacity" 600
 		"cargo space" 50
