@@ -24,10 +24,11 @@ ship Galaxias
 			"hull damage" 900
 			"hit force" 2700
 	outfits
-		"Plasma Cannon" 4
+		"Plasma Cannon" 2
 		"Particle Cannon" 2
+		"Proton Gun" 2
 		"Anti-Missile Turret"
-		
+
 		"Breeder Reactor"
 		"LP036a Battery Pack"
 		"D67-TM Shield Generator"
@@ -35,19 +36,23 @@ ship Galaxias
 		"Liquid Nitrogen Cooler"
 		"Luxury Accommodations"
 		"Laser Rifle" 8
-		
+
 		"A370 Atomic Thruster"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
 	engine -30 127
 	engine 30 127
-	gun -13 -107 "Plasma Cannon"
-	gun 13 -107 "Plasma Cannon"
-	gun -57 21 "Particle Cannon"
-	gun 57 21 "Particle Cannon"
-	gun -32 57 "Plasma Cannon"
-	gun 32 57 "Plasma Cannon"
+	gun -13 -107 "Proton Gun"
+	gun 13 -107 "Proton Gun"
+	gun -57 21 "Plasma Cannon"
+		angle 2.5
+	gun 57 21 "Plasma Cannon"
+		angle -2.5
+	gun -64 14 "Particle Cannon"
+		angle 2.75
+	gun 64 14 "Particle Cannon"
+		angle 2.75
 	turret 0 107 "Anti-Missile Turret"
 	explode "small explosion" 60
 	explode "medium explosion" 40
