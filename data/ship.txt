@@ -52,7 +52,7 @@ ship Galaxias
 	gun -64 14 "Particle Cannon"
 		angle 2.75
 	gun 64 14 "Particle Cannon"
-		angle 2.75
+		angle -2.75
 	turret 0 107 "Anti-Missile Turret"
 	explode "small explosion" 60
 	explode "medium explosion" 40
